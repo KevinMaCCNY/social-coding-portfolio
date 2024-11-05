@@ -1,0 +1,2 @@
+Again, this activity was fair to me as I am familiar with functions. For side quest #1, it was somewhat challenging as you really have to understand what the Counter library does and how to ulitize it. I had to go up to the previous questions to rememeber how to use that function as well as searching it up again on w3schools.com
+Also this is not related to coding, but for Side Quest#2 I don't know if the plane ticket price is the roundtrip price or singular price. But I assumed it was roundtrip and calculated that.
